@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Starbucks</string>
+
+    <string name="drink_1_name">Fantasy Tail</string>
+    <string name="drink_1_price">$26</string>
+
+    <string name="drink_2_name">Coffe Latte</string>
+    <string name="drink_2_price">$28</string>
+
+    <string name="drink_3_name">Frappucino</string>
+    <string name="drink_3_price">$26</string>
+
+    <string name="drink_4_name">Red Velvet</string>
+    <string name="drink_4_price">$28</string>
+
+    <string name="drink_5_name">Strawberry</string>
+    <string name="drink_5_price">$32</string>
+
+    <string name="drink_6_name">Matcha</string>
+    <string name="drink_6_price">$28</string>
+
+    <string name="reward_1_title">Buy 1 Get 1 Free</string>
+    <string name="reward_1_description">
+        Enjoy double the delight with our Buy 1 Get 1 Free promo!
+    </string>
+
+    <string name="reward_2_title">Free Match</string>
+    <string name="reward_2_description">
+        Dive into the refreshing world of Matcha with our Free Matcha promo!
+    </string>
+
+    <string name="reward_3_title">Free Red Velvet</string>
+    <string name="reward_3_description">
+        Treat yourself to a sweet surprise with our Free Red Velvet promo!
+    </string>
+
+</resources>
